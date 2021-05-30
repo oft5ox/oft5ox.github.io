@@ -1,8 +1,10 @@
+p {
+    color: blue ;
+}
+
 h1 {
     color: red;
 }
-
-
 .title {
     background-color: rgb(170, 30, 30);
 }
