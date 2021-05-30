@@ -3,6 +3,8 @@
 }
 .picture {
     background-color: aqua;
+    height: 80px;
+    width: 500px;
 }
 .self-produce {
     background-color: wheat;
