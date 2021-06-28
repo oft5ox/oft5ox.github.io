@@ -1,8 +1,12 @@
-p {
-    color: blue ;
+.header-logo{
+    color:white ;
+    background-color: blue;
+    padding: 30px;
+    size: 20px;
+
 }
 
-h2 {
+.h2{
     color: red;
 }
 .title {
